@@ -1,0 +1,24 @@
+Source: deb-ethereum
+Section: misc
+Priority: extra
+Maintainer: Oleksii Klitovchenko <oleksii.klitovchenko@gmail.com>
+Build-Depends: debhelper, build-essential, golang (>=1.16),
+ cmake, libboost-all-dev
+Standards-Version: 4.1.4
+Homepage: https://github.com/oklitovchenko/deb-ethereum
+
+Package: ethereum
+Architecture: any
+Description: Debian package for Ethereum go-ethereum executables
+
+Package: bsc
+Architecture: any
+Description: Debian package for Binance Smart Chain go-ethereum executables
+
+Package: polygon
+Architecture: any
+Description: Debian package for Polygon (MATIC) go-ethereum executables
+
+Package: solidity
+Architecture: any
+Description: Debian package for solidity compiler

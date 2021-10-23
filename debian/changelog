@@ -1,0 +1,5 @@
+deb-ethereum (0.0.1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Oleksii Klitovchenko <oleksii.klitovchenko@gmail.com>  Sat, 23 Oct 2021 07:47:26 +0200
