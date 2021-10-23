@@ -1,3 +1,10 @@
+deb-ethereum (1.0.0) unstable; urgency=low
+
+  * Use go-ethereum 1.10.11 release
+  * Add README.md
+
+ -- Oleksii Klitovchenko <oleksii.klitovchenko@envisionx.co>  Sat, 23 Oct 2021 11:37:39 +0300
+
 deb-ethereum (0.0.1) unstable; urgency=low
 
   * Initial release.
