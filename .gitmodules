@@ -1,0 +1,12 @@
+[submodule "go-ethereum"]
+	path = go-ethereum
+	url = https://github.com/ethereum/go-ethereum
+[submodule "bsc"]
+	path = bsc
+	url = https://github.com/binance-chain/bsc
+[submodule "polygon"]
+	path = polygon
+	url = https://github.com/maticnetwork/bor
+[submodule "solidity"]
+	path = solidity
+	url = https://github.com/ethereum/solidity
