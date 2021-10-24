@@ -1,3 +1,14 @@
+deb-ethereum (1.0.0) stable; urgency=low
+
+  * Use soliidty 0.8.9 release
+  * Use go-ethereum 1.10.11 release
+  * Add README.md
+  * Add debian specification
+  * Add main Makefile for build all packages
+  * Add subodules: go-ethereum, bsc, polygon, solidity
+
+ -- Oleksii Klitovchenko <oleksii.klitovchenko@envisionx.co>  Sun, 24 Oct 2021 08:18:27 +0300
+
 deb-ethereum (0.0.1) unstable; urgency=low
 
   * Initial release.
